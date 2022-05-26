@@ -1,0 +1,30 @@
+name: 🚀 Conference talk
+description: Submit your talk
+labels: [talk]
+body:
+  - type: textarea
+    attributes:
+      label: Talk title
+      description: Clear and intriguing naming is important.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Talk description
+      description: A clear and concise description of the talk.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Full name
+      description: Your real name and surname.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Relevant experience
+      description: Add a few words abour your experience in public talks.
+  - type: textarea
+    attributes:
+      label: Comments
+      description: Add your comment in a free form.
