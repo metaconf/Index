@@ -6,4 +6,6 @@
 
 ## 📽️ Published
 
+- [🧑‍💻 Применение Chat GPT в оптимизации JavaScript для Node.js](https://youtu.be/Ebrzqj8cGUY)
+
 ## ✨ Programme committee
